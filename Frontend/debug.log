@@ -1,0 +1,6 @@
+[0908/155955.765:ERROR:process_reader_win.cc(188)] ResumeThread: Parametro non corretto. (0x57)
+[0908/155955.767:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0908/155955.767:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0908/155955.767:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0908/155955.767:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
+[0908/155955.767:ERROR:process_reader_win.cc(151)] SuspendThread: Accesso negato. (0x5)
